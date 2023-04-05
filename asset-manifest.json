@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tempreact/static/css/main.e1baaba3.css",
+    "main.js": "/tempreact/static/js/main.e1dcaa1c.js",
+    "index.html": "/tempreact/index.html",
+    "main.e1baaba3.css.map": "/tempreact/static/css/main.e1baaba3.css.map",
+    "main.e1dcaa1c.js.map": "/tempreact/static/js/main.e1dcaa1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1baaba3.css",
+    "static/js/main.e1dcaa1c.js"
+  ]
+}
